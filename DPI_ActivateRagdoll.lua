@@ -1,4 +1,4 @@
-while wait() do
+while wait() do -- script by me :)
     if game:GetService("Players").LocalPlayer.Character.Ragdoll.Activate.Value then
 local args = {
     [1] = "WakeUp",
